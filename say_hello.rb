@@ -2,7 +2,7 @@
 
 def say_hello (name)
    puts "Hello #{name}!"
-   elsif  
+ else 
    puts "Hello Ruby Programmer!"
     
 end
